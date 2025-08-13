@@ -3,14 +3,19 @@
 A high-performance C++ console application built to compress and decompress textual data using Run-Length Encoding (RLE) — enhanced with multithreading for faster execution.
 ---
 
-## 👨‍💻 Internship Details
+##  Internship Details
 
-**🏢 Company:** Codtech IT Solutions  
-**👤 Intern:** Siddharth singh Rajawat
-**🆔 Intern ID:** CT04DZ1977 
-**💻 Domain:** C++ Programming  
-**⏳ Duration:** 4 Weeks  
-**🧑‍🏫 Mentor:** Neela Santhosh  
+##  Company:
+Codtech IT Solutions  
+
+##  Intern:
+Siddharth Singh Rajawat  
+
+##  Intern ID:
+CT04DZ1977  
+
+## Domain:
+C++
 
 ---
 
