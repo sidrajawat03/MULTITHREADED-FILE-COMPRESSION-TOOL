@@ -5,18 +5,12 @@ A high-performance C++ console application built to compress and decompress text
 
 ##  Internship Details
 
-##  Company:
-Codtech IT Solutions  
-
-##  Intern:
-Siddharth Singh Rajawat  
-
-##  Intern ID:
-CT04DZ1977  
-
-## Domain:
-C++
-
+🏢 **Company:** Codtech IT Solutions  
+👤 **Intern:** Aradhya Verma  
+🆔 **Intern ID:** CT04DZ475  
+💻 **Domain:** C++ Programming  
+⏳ **Duration:** 4 Weeks  
+🧑‍🏫 **Mentor:** Neela Santhosh  
 ---
 
 ## 📖 About the Project
