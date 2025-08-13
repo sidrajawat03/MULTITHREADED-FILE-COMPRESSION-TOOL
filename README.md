@@ -107,7 +107,7 @@ You’ll see the file being compressed and decompressed, followed by printed exe
 ## 📸 Gallery / Output Preview
 
 Check out the sample output and performance benchmarks here:
-📎 [Issue Tracker & Screenshots](
+📎 [Issue Tracker & Screenshots](https://github.com/sidrajawat03/MULTITHREADED-FILE-COMPRESSION-TOOL/issues/1#issue-3318970376)
 
 ---
 
